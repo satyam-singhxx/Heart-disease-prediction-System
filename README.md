@@ -12,18 +12,18 @@ folder description
 
 
 # Instructions
-->  Every one have to analyse the "heart-disease.txt" file in Raw UCI dataset folder.\n
--> Study about each attributr out of 76 given attributes in the original data set and pich the most reasonable and important attributes.\n
-->study different types of classification  model and try it on the filtered attributes.\n
+->  Every one have to analyse the "heart-disease.txt" file in Raw UCI dataset folder.
+-> Study about each attributr out of 76 given attributes in the original data set and pich the most reasonable and important attributes.
+->study different types of classification  model and try it on the filtered attributes.
 ### note -> create a seperate branch with ur name and pull request after achieving certain goal
 
 
 # To Do
--> Prepare original dataset for  feature selection\n
--> feature selection\n
--> feature extraction\n
--> model selection\n
--> performance analysis\n
--> model deployment\n
--> web app development\n
--> research paper writing (writing  part)\n
+-> Prepare original dataset for  feature selection
+-> feature selection
+-> feature extraction
+-> model selection
+-> performance analysis
+-> model deployment
+-> web app development
+-> research paper writing (writing  part)
